@@ -24,7 +24,7 @@ const PopularCollection = (props) => {
         setProducts(res.data.products);
       }
     } catch (err) {
-      alert(err);
+      console.log(err);
     }
   };
   const getAllProductsByFilter = async (cat) => {
@@ -41,7 +41,7 @@ const PopularCollection = (props) => {
         setProducts(res.data.products);
       }
     } catch (err) {
-      alert(err);
+      console.log(err);
     }
   };
 
