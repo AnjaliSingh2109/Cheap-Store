@@ -232,7 +232,7 @@ const Create = ({ name }) => {
       setIcon7("fa-solid fa-check");
       setIsLoading(false);
     } catch (err) {
-      console.log(err);
+      console.log(err); // eslint-disable-line
       setIsLoading(false);
     }
   };
