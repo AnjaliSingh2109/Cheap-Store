@@ -14,8 +14,8 @@ const Contact = () => {
         {
             title: 'Need Help? Contact With Our Hotline',
             icon: 'fal fa-phone-volume',
-            info: '+91 98749 35846',
-            link: 'tel:+919874935846'
+            info: '+91 99999 99999',
+            link: 'tel:+919999999999'
         },
         {
             title: 'Need Help? Contact With Our Hotline',
@@ -26,8 +26,8 @@ const Contact = () => {
         {
             title: 'Need Help? Contact With Our Hotline',
             icon: 'fal fa-envelope-open',
-            info: 'ashish.worksspace@gmail.com www.cheapstore.com',
-            link: 'mailto:ashish.worksspace@gmail.com'
+            info: 'anjali.kri.singh2107@gmail.com  www.cheapstore.com',
+            link: 'mailto:anjali.kri.singh2107@gmail.com'
         },
     ]);
 

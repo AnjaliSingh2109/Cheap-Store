@@ -154,28 +154,7 @@ const Footer = () => {
       <div className="bottom">
         <div className="container">
           <div className="bottom-inner">
-            Copyright © 2022 CheapStore | Designed by{" "}
-            <a
-              href="https://www.linkedin.com/in/basudev-ghosh-33b9a5251/"
-              target="_blank"
-            >
-              {" "}
-              Basu,
-            </a>
-            <a
-              href="https://www.linkedin.com/in/ashish-kumar-7a5b401ba/"
-              target="_blank"
-            >
-              {" "}
-              Ashish &
-            </a>
-            <a
-              href="https://www.linkedin.com/in/soumik-roy-choudhury-770a901b4/"
-              target="_blank"
-            >
-              {" "}
-              Soumik
-            </a>
+            Copyright © 2022 CheapStore | Designed by{" "} Anjail 
           </div>
         </div>
       </div>

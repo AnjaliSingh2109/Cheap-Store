@@ -4,8 +4,8 @@ import { Routes, Route } from 'react-router-dom'
 import routes from './pages/router'
 
 
-export const chatServer = "http://localhost:4000/";
-export const serverAPI = "http://localhost:4000/api";
+export const chatServer = "https://cheap-store.onrender.com/";
+export const serverAPI = "https://cheap-store.onrender.com/api";
 
 function App() {
 
