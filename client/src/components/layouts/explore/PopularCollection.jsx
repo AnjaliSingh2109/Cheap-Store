@@ -17,7 +17,7 @@ const PopularCollection = (props) => {
   const getAllProducts = async () => {
     setCategory("All");
     try {
-      const res = await axios.get("https://cheapstoore.herokuapp.com/api/get/products", {
+      const res = await axios.get("https://cheap-store.onrender.com/api/get/products", {
         withCredentials: true,
       });
       if (res.status === 200) {
@@ -31,7 +31,7 @@ const PopularCollection = (props) => {
     setCategory(cat);
     try {
       const res = await axios.post(
-        "https://cheapstoore.herokuapp.com/api/get/products/filter",
+        "https://cheap-store.onrender.com/api/get/products/filter",
         { cat },
         {
           withCredentials: true,
