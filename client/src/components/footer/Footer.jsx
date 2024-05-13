@@ -154,7 +154,7 @@ const Footer = () => {
       <div className="bottom">
         <div className="container">
           <div className="bottom-inner">
-            Copyright © 2022 CheapStore | Designed by{" "} Anjail 
+            Copyright © 2022 CheapStore | Designed by{" "} Priti, Anjali, Hrithik, Ravish 
           </div>
         </div>
       </div>
